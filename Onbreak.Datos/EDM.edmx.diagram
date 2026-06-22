@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="9d2af460618b4b319311c93f9f84673a" Name="Diagram1">
+        <EntityTypeShape EntityType="OnBreakModel.ActividadEmpresa" Width="1.5" PointX="0.75" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="OnBreakModel.Cenas" Width="1.5" PointX="8.375" PointY="5.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="OnBreakModel.Cliente" Width="1.5" PointX="3.25" PointY="3.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="OnBreakModel.Cocktail" Width="1.5" PointX="10.875" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="OnBreakModel.CoffeeBreak" Width="1.5" PointX="12.25" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="OnBreakModel.Contrato" Width="1.5" PointX="5.375" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="OnBreakModel.ModalidadServicio" Width="1.5" PointX="3.125" PointY="7.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="OnBreakModel.TipoAmbientacion" Width="1.5" PointX="9.875" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="OnBreakModel.TipoEmpresa" Width="1.5" PointX="0.75" PointY="1.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="OnBreakModel.TipoEvento" Width="1.5" PointX="0.625" PointY="7.375" IsExpanded="true" />
+        <AssociationConnector Association="OnBreakModel.Cliente_ActividadEmpresa_FK1" ManuallyRouted="false" />
+        <AssociationConnector Association="OnBreakModel.Cena_TipoAmbientacion_FK1" ManuallyRouted="false" >
+        </AssociationConnector>
+        <AssociationConnector Association="OnBreakModel.Contrato_Cenas_FK1" ManuallyRouted="false" />
+        <AssociationConnector Association="OnBreakModel.Cliente_TipoEmpresa_FK1" ManuallyRouted="false" />
+        <AssociationConnector Association="OnBreakModel.Contrato_Cliente_FK1" ManuallyRouted="false" />
+        <AssociationConnector Association="OnBreakModel.Cocktail_TipoAmbientacion_FK1" ManuallyRouted="false" />
+        <AssociationConnector Association="OnBreakModel.Contrato_Cocktail_FK1" ManuallyRouted="false" />
+        <AssociationConnector Association="OnBreakModel.Contrato_CoffeeBreak_FK1" ManuallyRouted="false" />
+        <AssociationConnector Association="OnBreakModel.Contrato_ModalidadEvento_FK1" ManuallyRouted="false" />
+        <AssociationConnector Association="OnBreakModel.ModalidadServicio_TipoEvento_FK1" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
