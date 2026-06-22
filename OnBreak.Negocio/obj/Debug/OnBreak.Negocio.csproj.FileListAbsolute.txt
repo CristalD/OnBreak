@@ -1,0 +1,167 @@
+C:\Users\alvaro\Desktop\aaa\OnBreak\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\alvaro\Desktop\aaa\OnBreak\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll
+C:\Users\alvaro\Desktop\aaa\OnBreak\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\alvaro\Desktop\aaa\OnBreak\OnBreak.Negocio\bin\Debug\EntityFramework.dll
+C:\Users\alvaro\Desktop\aaa\OnBreak\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alvaro\Desktop\aaa\OnBreak\OnBreak.Negocio\bin\Debug\Onbreak.Datos.dll
+C:\Users\alvaro\Desktop\aaa\OnBreak\OnBreak.Negocio\bin\Debug\Onbreak.Datos.pdb
+C:\Users\alvaro\Desktop\aaa\OnBreak\OnBreak.Negocio\bin\Debug\Onbreak.Datos.dll.config
+C:\Users\alvaro\Desktop\aaa\OnBreak\OnBreak.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\alvaro\Desktop\aaa\OnBreak\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alvaro\Desktop\aaa\OnBreak\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csprojAssemblyReference.cache
+C:\Users\alvaro\Desktop\aaa\OnBreak\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\alvaro\Desktop\aaa\OnBreak\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CopyComplete
+C:\Users\alvaro\Desktop\aaa\OnBreak\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.dll
+C:\Users\alvaro\Desktop\aaa\OnBreak\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.pdb
+C:\Users\alvaro\Desktop\Tercera Entrega\OnBreak\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\alvaro\Desktop\Tercera Entrega\OnBreak\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll
+C:\Users\alvaro\Desktop\Tercera Entrega\OnBreak\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\alvaro\Desktop\Tercera Entrega\OnBreak\OnBreak.Negocio\bin\Debug\EntityFramework.dll
+C:\Users\alvaro\Desktop\Tercera Entrega\OnBreak\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alvaro\Desktop\Tercera Entrega\OnBreak\OnBreak.Negocio\bin\Debug\Onbreak.Datos.dll
+C:\Users\alvaro\Desktop\Tercera Entrega\OnBreak\OnBreak.Negocio\bin\Debug\Onbreak.Datos.pdb
+C:\Users\alvaro\Desktop\Tercera Entrega\OnBreak\OnBreak.Negocio\bin\Debug\Onbreak.Datos.dll.config
+C:\Users\alvaro\Desktop\Tercera Entrega\OnBreak\OnBreak.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\alvaro\Desktop\Tercera Entrega\OnBreak\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alvaro\Desktop\Tercera Entrega\OnBreak\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csprojAssemblyReference.cache
+C:\Users\alvaro\Desktop\Tercera Entrega\OnBreak\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\alvaro\Desktop\Tercera Entrega\OnBreak\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CopyComplete
+C:\Users\alvaro\Desktop\Tercera Entrega\OnBreak\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.dll
+C:\Users\alvaro\Desktop\Tercera Entrega\OnBreak\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.pdb
+C:\Users\cetecom\Downloads\OnBreak\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\cetecom\Downloads\OnBreak\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll
+C:\Users\cetecom\Downloads\OnBreak\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\cetecom\Downloads\OnBreak\OnBreak.Negocio\bin\Debug\EntityFramework.dll
+C:\Users\cetecom\Downloads\OnBreak\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cetecom\Downloads\OnBreak\OnBreak.Negocio\bin\Debug\Onbreak.Datos.dll
+C:\Users\cetecom\Downloads\OnBreak\OnBreak.Negocio\bin\Debug\Onbreak.Datos.pdb
+C:\Users\cetecom\Downloads\OnBreak\OnBreak.Negocio\bin\Debug\Onbreak.Datos.dll.config
+C:\Users\cetecom\Downloads\OnBreak\OnBreak.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\cetecom\Downloads\OnBreak\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cetecom\Downloads\OnBreak\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\cetecom\Downloads\OnBreak\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.dll
+C:\Users\cetecom\Downloads\OnBreak\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.pdb
+C:\Users\cetecom\Desktop\Contraste\OnBreak\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\cetecom\Desktop\Contraste\OnBreak\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll
+C:\Users\cetecom\Desktop\Contraste\OnBreak\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\cetecom\Desktop\Contraste\OnBreak\OnBreak.Negocio\bin\Debug\EntityFramework.dll
+C:\Users\cetecom\Desktop\Contraste\OnBreak\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cetecom\Desktop\Contraste\OnBreak\OnBreak.Negocio\bin\Debug\Onbreak.Datos.dll
+C:\Users\cetecom\Desktop\Contraste\OnBreak\OnBreak.Negocio\bin\Debug\Onbreak.Datos.pdb
+C:\Users\cetecom\Desktop\Contraste\OnBreak\OnBreak.Negocio\bin\Debug\Onbreak.Datos.dll.config
+C:\Users\cetecom\Desktop\Contraste\OnBreak\OnBreak.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\cetecom\Desktop\Contraste\OnBreak\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cetecom\Desktop\Contraste\OnBreak\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csprojResolveAssemblyReference.cache
+C:\Users\cetecom\Desktop\Contraste\OnBreak\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\cetecom\Desktop\Contraste\OnBreak\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.dll
+C:\Users\cetecom\Desktop\Contraste\OnBreak\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.pdb
+C:\Users\cetecom\Downloads\OnBreak\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csprojAssemblyReference.cache
+C:\Users\cetecom\Downloads\OnBreak\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CopyComplete
+C:\Users\alvaro\Desktop\cacatua\OnBreak\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\alvaro\Desktop\cacatua\OnBreak\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll
+C:\Users\alvaro\Desktop\cacatua\OnBreak\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\alvaro\Desktop\cacatua\OnBreak\OnBreak.Negocio\bin\Debug\EntityFramework.dll
+C:\Users\alvaro\Desktop\cacatua\OnBreak\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alvaro\Desktop\cacatua\OnBreak\OnBreak.Negocio\bin\Debug\FluentValidation.dll
+C:\Users\alvaro\Desktop\cacatua\OnBreak\OnBreak.Negocio\bin\Debug\Onbreak.Datos.dll
+C:\Users\alvaro\Desktop\cacatua\OnBreak\OnBreak.Negocio\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\alvaro\Desktop\cacatua\OnBreak\OnBreak.Negocio\bin\Debug\Onbreak.Datos.pdb
+C:\Users\alvaro\Desktop\cacatua\OnBreak\OnBreak.Negocio\bin\Debug\Onbreak.Datos.dll.config
+C:\Users\alvaro\Desktop\cacatua\OnBreak\OnBreak.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\alvaro\Desktop\cacatua\OnBreak\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alvaro\Desktop\cacatua\OnBreak\OnBreak.Negocio\bin\Debug\FluentValidation.xml
+C:\Users\alvaro\Desktop\cacatua\OnBreak\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csprojAssemblyReference.cache
+C:\Users\alvaro\Desktop\cacatua\OnBreak\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\alvaro\Desktop\cacatua\OnBreak\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CopyComplete
+C:\Users\alvaro\Desktop\cacatua\OnBreak\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.dll
+C:\Users\alvaro\Desktop\cacatua\OnBreak\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.pdb
+E:\InterfazOnbreak19-06\OnBreak\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll.config
+E:\InterfazOnbreak19-06\OnBreak\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll
+E:\InterfazOnbreak19-06\OnBreak\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.pdb
+E:\InterfazOnbreak19-06\OnBreak\OnBreak.Negocio\bin\Debug\EntityFramework.dll
+E:\InterfazOnbreak19-06\OnBreak\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.dll
+E:\InterfazOnbreak19-06\OnBreak\OnBreak.Negocio\bin\Debug\FluentValidation.dll
+E:\InterfazOnbreak19-06\OnBreak\OnBreak.Negocio\bin\Debug\Onbreak.Datos.dll
+E:\InterfazOnbreak19-06\OnBreak\OnBreak.Negocio\bin\Debug\System.ComponentModel.Annotations.dll
+E:\InterfazOnbreak19-06\OnBreak\OnBreak.Negocio\bin\Debug\Onbreak.Datos.pdb
+E:\InterfazOnbreak19-06\OnBreak\OnBreak.Negocio\bin\Debug\Onbreak.Datos.dll.config
+E:\InterfazOnbreak19-06\OnBreak\OnBreak.Negocio\bin\Debug\EntityFramework.xml
+E:\InterfazOnbreak19-06\OnBreak\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+E:\InterfazOnbreak19-06\OnBreak\OnBreak.Negocio\bin\Debug\FluentValidation.xml
+E:\InterfazOnbreak19-06\OnBreak\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csprojAssemblyReference.cache
+E:\InterfazOnbreak19-06\OnBreak\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CoreCompileInputs.cache
+E:\InterfazOnbreak19-06\OnBreak\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CopyComplete
+E:\InterfazOnbreak19-06\OnBreak\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.dll
+E:\InterfazOnbreak19-06\OnBreak\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.pdb
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak\OnBreak.Negocio\bin\Debug\EntityFramework.dll
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak\OnBreak.Negocio\bin\Debug\FluentValidation.dll
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak\OnBreak.Negocio\bin\Debug\Onbreak.Datos.dll
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak\OnBreak.Negocio\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak\OnBreak.Negocio\bin\Debug\Onbreak.Datos.pdb
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak\OnBreak.Negocio\bin\Debug\Onbreak.Datos.dll.config
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak\OnBreak.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak\OnBreak.Negocio\bin\Debug\FluentValidation.xml
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csprojAssemblyReference.cache
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CopyComplete
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.dll
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.pdb
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak - Respaldo Memento\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak - Respaldo Memento\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak - Respaldo Memento\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak - Respaldo Memento\OnBreak.Negocio\bin\Debug\EntityFramework.dll
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak - Respaldo Memento\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak - Respaldo Memento\OnBreak.Negocio\bin\Debug\FluentValidation.dll
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak - Respaldo Memento\OnBreak.Negocio\bin\Debug\Onbreak.Datos.dll
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak - Respaldo Memento\OnBreak.Negocio\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak - Respaldo Memento\OnBreak.Negocio\bin\Debug\Onbreak.Datos.pdb
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak - Respaldo Memento\OnBreak.Negocio\bin\Debug\Onbreak.Datos.dll.config
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak - Respaldo Memento\OnBreak.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak - Respaldo Memento\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak - Respaldo Memento\OnBreak.Negocio\bin\Debug\FluentValidation.xml
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak - Respaldo Memento\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csprojAssemblyReference.cache
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak - Respaldo Memento\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak - Respaldo Memento\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CopyComplete
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak - Respaldo Memento\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.dll
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak - Respaldo Memento\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.pdb
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak - Respaldo\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak - Respaldo\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak - Respaldo\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak - Respaldo\OnBreak.Negocio\bin\Debug\EntityFramework.dll
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak - Respaldo\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak - Respaldo\OnBreak.Negocio\bin\Debug\FluentValidation.dll
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak - Respaldo\OnBreak.Negocio\bin\Debug\Onbreak.Datos.dll
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak - Respaldo\OnBreak.Negocio\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak - Respaldo\OnBreak.Negocio\bin\Debug\Onbreak.Datos.pdb
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak - Respaldo\OnBreak.Negocio\bin\Debug\Onbreak.Datos.dll.config
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak - Respaldo\OnBreak.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak - Respaldo\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak - Respaldo\OnBreak.Negocio\bin\Debug\FluentValidation.xml
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak - Respaldo\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csprojAssemblyReference.cache
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak - Respaldo\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak - Respaldo\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CopyComplete
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak - Respaldo\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.dll
+C:\Users\alvaro\Desktop\Nueva Interfaz Onbreak\InterfazOnbreak19-06\OnBreak - Respaldo\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.pdb
+C:\Users\crist\Documents\Carrera Informatica Duoc UC\1Compartido\OnBreak - Patrones\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll.config
+C:\Users\crist\Documents\Carrera Informatica Duoc UC\1Compartido\OnBreak - Patrones\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.dll
+C:\Users\crist\Documents\Carrera Informatica Duoc UC\1Compartido\OnBreak - Patrones\OnBreak.Negocio\bin\Debug\OnBreak.Negocio.pdb
+C:\Users\crist\Documents\Carrera Informatica Duoc UC\1Compartido\OnBreak - Patrones\OnBreak.Negocio\bin\Debug\EntityFramework.dll
+C:\Users\crist\Documents\Carrera Informatica Duoc UC\1Compartido\OnBreak - Patrones\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\crist\Documents\Carrera Informatica Duoc UC\1Compartido\OnBreak - Patrones\OnBreak.Negocio\bin\Debug\FluentValidation.dll
+C:\Users\crist\Documents\Carrera Informatica Duoc UC\1Compartido\OnBreak - Patrones\OnBreak.Negocio\bin\Debug\Onbreak.Datos.dll
+C:\Users\crist\Documents\Carrera Informatica Duoc UC\1Compartido\OnBreak - Patrones\OnBreak.Negocio\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\crist\Documents\Carrera Informatica Duoc UC\1Compartido\OnBreak - Patrones\OnBreak.Negocio\bin\Debug\Onbreak.Datos.pdb
+C:\Users\crist\Documents\Carrera Informatica Duoc UC\1Compartido\OnBreak - Patrones\OnBreak.Negocio\bin\Debug\Onbreak.Datos.dll.config
+C:\Users\crist\Documents\Carrera Informatica Duoc UC\1Compartido\OnBreak - Patrones\OnBreak.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\crist\Documents\Carrera Informatica Duoc UC\1Compartido\OnBreak - Patrones\OnBreak.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\crist\Documents\Carrera Informatica Duoc UC\1Compartido\OnBreak - Patrones\OnBreak.Negocio\bin\Debug\FluentValidation.xml
+C:\Users\crist\Documents\Carrera Informatica Duoc UC\1Compartido\OnBreak - Patrones\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.AssemblyReference.cache
+C:\Users\crist\Documents\Carrera Informatica Duoc UC\1Compartido\OnBreak - Patrones\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\Carrera Informatica Duoc UC\1Compartido\OnBreak - Patrones\OnBreak.Negocio\obj\Debug\OnBreak..D33D285F.Up2Date
+C:\Users\crist\Documents\Carrera Informatica Duoc UC\1Compartido\OnBreak - Patrones\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.dll
+C:\Users\crist\Documents\Carrera Informatica Duoc UC\1Compartido\OnBreak - Patrones\OnBreak.Negocio\obj\Debug\OnBreak.Negocio.pdb
